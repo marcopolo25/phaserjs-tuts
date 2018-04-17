@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecae0f11-d197-4765-9123-24d64a475787" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pet-game/assets/images/apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pet-game/assets/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pet-game/assets/images/backyard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pet-game/assets/images/candy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pet-game/assets/images/pet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pet-game/assets/images/rotate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pet-game/assets/images/rubber_duck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pet-game/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pet-game/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pet-game/js/phaser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +26,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+              <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pet-game/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phaser.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pet-game/js/phaser.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/toddler-farm-animal/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-618">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pet-game/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="52" column="29" lean-forward="false" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -35,11 +87,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/pet-game/index.html" />
+        <option value="$PROJECT_DIR$/pet-game/js/main.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -76,7 +137,37 @@
             <path>
               <item name="phaserTuts" type="b2602c69:ProjectViewProjectNode" />
               <item name="phaserTuts" type="462c0819:PsiDirectoryNode" />
+              <item name="pet-game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phaserTuts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phaserTuts" type="462c0819:PsiDirectoryNode" />
+              <item name="pet-game" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phaserTuts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phaserTuts" type="462c0819:PsiDirectoryNode" />
+              <item name="pet-game" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phaserTuts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phaserTuts" type="462c0819:PsiDirectoryNode" />
+              <item name="pet-game" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phaserTuts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phaserTuts" type="462c0819:PsiDirectoryNode" />
               <item name="toddler-farm-animal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phaserTuts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phaserTuts" type="462c0819:PsiDirectoryNode" />
+              <item name="toddler-farm-animal" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -88,11 +179,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="add_unversioned_files" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pet-game/assets" />
+      <recent name="$PROJECT_DIR$/pet-game" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,12 +212,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523935729607</updated>
-      <workItem from="1523935732343" duration="491000" />
+      <workItem from="1523935732343" duration="3286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="491000" />
+    <option name="totallyTimeSpent" value="3286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1680" y="-117" width="1680" height="1050" extended-state="0" />
@@ -159,7 +255,41 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toddler-farm-animal/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-618">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pet-game/js/phaser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pet-game/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pet-game/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="52" column="29" lean-forward="false" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
           <folding />
         </state>
       </provider>
